@@ -1,0 +1,16 @@
+#divWeatherMain{
+  display: block;
+  border-radius: 10px;
+  width: 200px;
+  height: 220px;
+  background: rgb(0,0,0);
+  background: black;
+  color: white;;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.weatherWidgetRow{
+  display:block;
+  margin:0 auto;
+  width: fit-content;
+}
